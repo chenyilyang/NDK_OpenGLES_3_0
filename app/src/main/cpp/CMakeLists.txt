@@ -5,7 +5,7 @@
 
 cmake_minimum_required(VERSION 3.4.1)
 
-set(jnilibs "${CMAKE_SOURCE_DIR}/../jniLibs")
+set(jnilibs "${CMAKE_SOURCE_DIR}/../cmakelibs")
 
 include_directories(
         util
